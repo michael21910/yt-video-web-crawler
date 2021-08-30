@@ -10,6 +10,14 @@ You will get a bunch of links.
 You can open the index.py file using jupyter notebook.  
 The link will be clickable after the program finishes.  
 
+## Before the program runs
+* Install the library "selenium"
+```
+pip install selenium
+```
+* Install "chrome webdriver"  
+Please go to [this webpage](https://chromedriver.chromium.org/downloads) to download
+
 ## Demo
 
 Demo1:  
