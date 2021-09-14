@@ -7,14 +7,18 @@ One day, I thought, maybe I can do some easy crawling things!
 So I decided to start writting the program.  
   
 ## Things you need to do :open_book:
-* input a keyword you want to find on YouTube
-* input a integer that this number is the count of the videos
 * Install the library "selenium"
 ```
 pip install selenium
 ```
 * Install "chrome webdriver"  
 Please go to [this webpage](https://chromedriver.chromium.org/downloads) to download
+* Clone this repository
+```
+git clone https://github.com/michael21910/yt-video-web-crawler.git
+```
+* input a keyword you want to find on YouTube
+* input a integer that this number is the count of the videos
   
 ## What will you get :icecream:
 You will get a bunch of links.  
